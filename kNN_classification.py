@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jan  8 12:19:09 2017
-
-@author: KANHAIYA
-"""
-
 import numpy as np
 # import random 
 import scipy.stats as ss
